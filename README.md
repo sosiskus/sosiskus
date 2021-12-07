@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita KLepikovs
-- 👀 I’m interested in Prigramming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning C/C++ usage with Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me robotics-kid@yandex.ru
